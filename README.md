@@ -1,6 +1,6 @@
 # Hi there, I'm Eoan 👋
 
-## 👨🏻‍💻 Final Year Creative Computing student & Owner @ [WebSpace](https://web-space.design)
+<h2>👨🏻‍💻 Final Year Creative Computing student & Owner @ [WebSpace](https://web-space.design) </h2>
 
 [![Linkedin: eoanodea](https://img.shields.io/badge/-eoanodea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eoanodea/)](https://www.linkedin.com/in/eoanodea/)
 ![GitHub followers](https://img.shields.io/github/followers/eoanodea?label=Follow&style=social)
