@@ -1,7 +1,5 @@
 # Hi there, I'm Eoan 👋
 
-<h2>👨🏻‍💻 Final Year Creative Computing student & Owner @ [WebSpace](https://web-space.design) </h2>
-
 [![Linkedin: eoanodea](https://img.shields.io/badge/-eoanodea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eoanodea/)](https://www.linkedin.com/in/eoanodea/)
 ![GitHub followers](https://img.shields.io/github/followers/eoanodea?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://web-space.design/)](http://web-space.design/)
@@ -14,7 +12,7 @@
 ```javascript
 
 const eoan = {
-    tagline: "👨🏻‍💻 Final Year Creative Computing student & Owner @ [WebSpace](https://web-space.design)",
+    tagline: "👨🏻‍💻 Final Year Creative Computing student & Owner @ WebSpace",
     workingOn: [
         "Finishing my Bachelors degree",
         "Writing my Thesis & building a mobile application to support it",
