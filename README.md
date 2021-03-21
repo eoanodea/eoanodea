@@ -14,6 +14,7 @@
 ```javascript
 
 const eoan = {
+    tagline: "👨🏻‍💻 Final Year Creative Computing student & Owner @ [WebSpace](https://web-space.design)",
     workingOn: [
         "Finishing my Bachelors degree",
         "Writing my Thesis & building a mobile application to support it",
