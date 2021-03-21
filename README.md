@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
+
 **🐱 My Github Data** 
 
 > 🏆 498 Contributions in the Year 2021
@@ -34,7 +36,7 @@ Here are some ideas to get you started:
  > 
 > 💼 Opted to Hire
  > 
-> 📜 83 Public Repositories 
+> 📜 85 Public Repositories 
  > 
 > 🔑 20 Private Repositories  
  > 
@@ -73,19 +75,6 @@ Dart                     3 hrs 57 mins       ████░░░░░░░�
 TypeScript               3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.02% 
 C++                      2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.13%
 
-🔥 Editors: 
-VS Code                  25 hrs              █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-cloud-app-scenario-2     9 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.09% 
-frontend                 3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
-client                   3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.02% 
-music-theory-backend     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.58% 
-codewars                 2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.13%
-
-💻 Operating System: 
-Mac                      25 hrs              █████████████████████████   100.0%
-
 ```
 
 **I Mostly Code in JavaScript** 
@@ -99,10 +88,6 @@ TypeScript               9 repos             ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/eoanodea/eoanodea/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
