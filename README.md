@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there, I'm Eoan 👋
 
-### Final Year Creative Computing student @ IADT
+## 👨🏻‍💻 Final Year Creative Computing student & Owner @ [WebSpace](https://web-space.design)
 
 [![Linkedin: eoanodea](https://img.shields.io/badge/-eoanodea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eoanodea/)](https://www.linkedin.com/in/eoanodea/)
 ![GitHub followers](https://img.shields.io/github/followers/eoanodea?label=Follow&style=social)
@@ -8,6 +8,31 @@
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/4eEcsSMYXX)
 ![](https://visitor-badge.glitch.me/badge?page_id=eoanodea.eoanodea)
 [![Dynamic Readme](https://github.com/eoanodea/eoanodea/actions/workflows/main.yml/badge.svg)](https://github.com/eoanodea/eoanodea/actions/workflows/main.yml)
+
+<h4>
+```
+const eoan = {
+    workingOn: [
+        "Finishing my Bachelors degree",
+        "Writing my Thesis & building a mobile application to support it",
+        "Running WebSpace"
+    ],
+    learning: [
+        "Dart",
+        "GraphQL",
+        "Mikro ORM",
+        "AWS"
+    ],
+    technologies: {
+        frontend: ["React", "Vue", "jQuery", "Gatsby", "WordPress"],
+        backend: ["Node", "GraphQL", "Mikro ORM", "Express", "MongoDB", "Serverless", "AWS", "Laravel", "PHP"],
+        mobile: ["Flutter", "React Native", "Swift UI", "Kotlin"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL]
+    }
+    favourites: ["Typescript", "React", "Material UI", "GraphQL"]
+}
+```
+</h4>
 
 <!--
 **eoanodea/eoanodea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
