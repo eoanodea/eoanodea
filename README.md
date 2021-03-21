@@ -7,7 +7,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=eoanodea.eoanodea)
 [![Dynamic Readme](https://github.com/eoanodea/eoanodea/actions/workflows/main.yml/badge.svg)](https://github.com/eoanodea/eoanodea/actions/workflows/main.yml)
 
-<h4>
+<h3>
     
 ```javascript
 
@@ -19,10 +19,10 @@ const eoan = {
         "Running WebSpace",
         "Teaching Maths & Web Development @ BFEI",
     ],
-    learning: [Dart, GraphQL, Mikro ORM, Apollo, AWS, C++],
+    learning: [Dart, GraphQL, MikroORM, Apollo, AWS, C++],
     technologies: {
         frontend: [React, Vue, jQuery, Gatsby],
-        css: [Material UI, Bootstrap, Atlassian, IBM Carbon],
+        css: [MaterialUI, Bootstrap, Atlassian, IBMCarbon],
         backend: [Node, GraphQL, Express, Laravel, PHP, WordPress],
         mobile: [Flutter, React Native, Swift UI, Kotlin],
         databases: [MongoDB, MySQL, PostgreSQL],
@@ -31,7 +31,7 @@ const eoan = {
 
 ````
 
-</h4>
+</h3>
 
 <!--
 **eoanodea/eoanodea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
