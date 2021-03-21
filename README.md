@@ -19,26 +19,14 @@ const eoan = {
         "Running WebSpace",
         "Teaching Maths & Web Development @ BFEI",
     ],
-    learning: ["Dart", "GraphQL", "Mikro ORM", "AWS"],
+    learning: [Dart, GraphQL, Mikro ORM, Apollo, AWS, C++],
     technologies: {
-        frontend: ["React", "Vue", "jQuery", "Gatsby"],
-        css: ["Material UI", "Bootstrap", "Atlassian", "IBM Carbon"],
-        backend: [
-            "Node",
-            "GraphQL",
-            "Mikro ORM",
-            "Express",
-            "MongoDB",
-            "Serverless",
-            "AWS",
-            "Laravel",
-            "PHP",
-            "WordPress",
-        ],
-        mobile: ["Flutter", "React Native", "Swift UI", "Kotlin"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        frontend: [React, Vue, jQuery, Gatsby],
+        css: [Material UI, Bootstrap, Atlassian, IBM Carbon],
+        backend: [Node, GraphQL, Express, Laravel, PHP, WordPress],
+        mobile: [Flutter, React Native, Swift UI, Kotlin],
+        databases: [MongoDB, MySQL, PostgreSQL],
     },
-    favourites: ["Typescript", "React", "Material UI", "Node", "GraphQL"],
 };
 
 ````
