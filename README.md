@@ -22,7 +22,7 @@ const eoan = {
     learning: [Dart, GraphQL, MikroORM, Apollo, C++],
     technologies: {
         frontend: [React, Vue, jQuery, Gatsby],
-        css: [MaterialUI, Bootstrap, Atlassian, IBMCarbon],
+        css: [MaterialUI, Bootstrap, Atlassian],
         backend: [Node, GraphQL, Express, Laravel, PHP, WordPress, AWS],
         mobile: [Flutter, React Native, SwiftUI, Kotlin],
         databases: [MongoDB, MySQL, PostgreSQL],
@@ -79,3 +79,4 @@ TypeScript               9 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
