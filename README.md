@@ -15,7 +15,8 @@ const eoan = {
     workingOn: [
         "Finishing my Bachelors degree",
         "Writing my Thesis & building a mobile application to support it",
-        "Running WebSpace"
+        "Running WebSpace",
+        "Teaching Maths & Web Development @ BFEI"
     ],
     learning: [
         "Dart",
@@ -29,7 +30,7 @@ const eoan = {
         mobile: ["Flutter", "React Native", "Swift UI", "Kotlin"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"]
     },
-    favourites: ["Typescript", "React", "Material UI", "GraphQL"]
+    favourites: ["Typescript", "React", "Material UI", "Node", "GraphQL"]
 }
 ```
 </h4>
