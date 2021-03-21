@@ -7,12 +7,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=eoanodea.eoanodea)
 [![Dynamic Readme](https://github.com/eoanodea/eoanodea/actions/workflows/main.yml/badge.svg)](https://github.com/eoanodea/eoanodea/actions/workflows/main.yml)
 
-<h3>
+<h4>
     
 ```javascript
 
 const eoan = {
-    tagline: "👨🏻‍💻 Final Year Creative Computing student & Owner @ WebSpace",
+    about: "👨🏻‍💻 Final Year Creative Computing student & Owner @ WebSpace",
     workingOn: [
         "Finishing my Bachelors degree",
         "Writing my Thesis & building a mobile application to support it",
@@ -43,7 +43,7 @@ const eoan = {
 
 ````
 
-</h3>
+</h4>
 
 <!--
 **eoanodea/eoanodea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
