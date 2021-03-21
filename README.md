@@ -22,11 +22,10 @@ const eoan = {
     learning: [Dart, GraphQL, MikroORM, Apollo, C++],
     technologies: {
         frontend: {
-            frameworks: [React, Vue, jQuery, Gatsby],
+            frameworks: [React, Vue, Gatsby, Flutter, ReactNative, SwiftUI],
             css: [MaterialUI, Bootstrap, Atlassian],
         },
         backend: [Node, GraphQL, Express, Laravel, PHP, WordPress, AWS],
-        mobile: [Flutter, React Native, SwiftUI, Kotlin],
         databases: [MongoDB, MySQL, PostgreSQL],
     },
 };
