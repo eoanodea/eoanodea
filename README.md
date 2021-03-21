@@ -19,12 +19,12 @@ const eoan = {
         "Running WebSpace",
         "Teaching Maths & Web Development @ BFEI",
     ],
-    learning: [Dart, GraphQL, MikroORM, Apollo, AWS, C++],
+    learning: [Dart, GraphQL, MikroORM, Apollo, C++],
     technologies: {
         frontend: [React, Vue, jQuery, Gatsby],
         css: [MaterialUI, Bootstrap, Atlassian, IBMCarbon],
-        backend: [Node, GraphQL, Express, Laravel, PHP, WordPress],
-        mobile: [Flutter, React Native, Swift UI, Kotlin],
+        backend: [Node, GraphQL, Express, Laravel, PHP, WordPress, AWS],
+        mobile: [Flutter, React Native, SwiftUI, Kotlin],
         databases: [MongoDB, MySQL, PostgreSQL],
     },
 };
