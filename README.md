@@ -9,34 +9,42 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=eoanodea.eoanodea)
 [![Dynamic Readme](https://github.com/eoanodea/eoanodea/actions/workflows/main.yml/badge.svg)](https://github.com/eoanodea/eoanodea/actions/workflows/main.yml)
 
+<h3>
+    
 ```javascript
+
 const eoan = {
-  workingOn: [
-    "Finishing my Bachelors degree",
-    "Writing my Thesis & building a mobile application to support it",
-    "Running WebSpace",
-    "Teaching Maths & Web Development @ BFEI",
-  ],
-  learning: ["Dart", "GraphQL", "Mikro ORM", "AWS"],
-  technologies: {
-    frontend: ["React", "Vue", "jQuery", "Gatsby", "WordPress"],
-    backend: [
-      "Node",
-      "GraphQL",
-      "Mikro ORM",
-      "Express",
-      "MongoDB",
-      "Serverless",
-      "AWS",
-      "Laravel",
-      "PHP",
+    workingOn: [
+        "Finishing my Bachelors degree",
+        "Writing my Thesis & building a mobile application to support it",
+        "Running WebSpace",
+        "Teaching Maths & Web Development @ BFEI",
     ],
-    mobile: ["Flutter", "React Native", "Swift UI", "Kotlin"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
-  },
-  favourites: ["Typescript", "React", "Material UI", "Node", "GraphQL"],
+    learning: ["Dart", "GraphQL", "Mikro ORM", "AWS"],
+    technologies: {
+        frontend: ["React", "Vue", "jQuery", "Gatsby"],
+        css: ["Material UI", "Bootstrap", "Atlassian", "IBM Carbon"],
+        backend: [
+            "Node",
+            "GraphQL",
+            "Mikro ORM",
+            "Express",
+            "MongoDB",
+            "Serverless",
+            "AWS",
+            "Laravel",
+            "PHP",
+            "WordPress",
+        ],
+        mobile: ["Flutter", "React Native", "Swift UI", "Kotlin"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+    },
+    favourites: ["Typescript", "React", "Material UI", "Node", "GraphQL"],
 };
-```
+
+````
+
+</h3>
 
 <!--
 **eoanodea/eoanodea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -79,7 +87,7 @@ Here are some ideas to get you started:
 🌃 Evening    493 commits    ███████░░░░░░░░░░░░░░░░░░   29.4%
 🌙 Night      21 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
 
-```
+````
 
 📅 **I'm Most Productive on Tuesday**
 
