@@ -28,19 +28,34 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+<<<<<<< HEAD
 **🐱 My Github Data**
+=======
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+>>>>>>> f749fe8f893a6fcc9c4d08a350c0ae2456be6e2b
 
 > 🏆 498 Contributions in the Year 2021
 >
 > 📦 399.5 kB Used in Github's Storage
 >
 > 💼 Opted to Hire
+<<<<<<< HEAD
 >
 > 📜 83 Public Repositories
 >
 > 🔑 20 Private Repositories
 >
 > **I'm an Early 🐤**
+=======
+ > 
+> 📜 85 Public Repositories 
+ > 
+> 🔑 20 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+>>>>>>> f749fe8f893a6fcc9c4d08a350c0ae2456be6e2b
 
 ```text
 🌞 Morning    179 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.67%
@@ -75,6 +90,7 @@ Dart                     3 hrs 57 mins       ████░░░░░░░�
 TypeScript               3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.02%
 C++                      2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.13%
 
+<<<<<<< HEAD
 🔥 Editors:
 VS Code                  25 hrs              █████████████████████████   100.0%
 
@@ -88,6 +104,8 @@ codewars                 2 hrs 17 mins       ██░░░░░░░░░�
 💻 Operating System:
 Mac                      25 hrs              █████████████████████████   100.0%
 
+=======
+>>>>>>> f749fe8f893a6fcc9c4d08a350c0ae2456be6e2b
 ```
 
 **I Mostly Code in JavaScript**
@@ -101,8 +119,12 @@ TypeScript               9 repos             ██░░░░░░░░░�
 
 ```
 
+<<<<<<< HEAD
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/eoanodea/eoanodea/main/charts/bar_graph.png)
+=======
+
+>>>>>>> f749fe8f893a6fcc9c4d08a350c0ae2456be6e2b
 
 <!--END_SECTION:waka-->
