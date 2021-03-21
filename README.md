@@ -10,7 +10,7 @@
 [![Dynamic Readme](https://github.com/eoanodea/eoanodea/actions/workflows/main.yml/badge.svg)](https://github.com/eoanodea/eoanodea/actions/workflows/main.yml)
 
 <h4>
-```
+```javascript
 const eoan = {
     workingOn: [
         "Finishing my Bachelors degree",
@@ -27,8 +27,8 @@ const eoan = {
         frontend: ["React", "Vue", "jQuery", "Gatsby", "WordPress"],
         backend: ["Node", "GraphQL", "Mikro ORM", "Express", "MongoDB", "Serverless", "AWS", "Laravel", "PHP"],
         mobile: ["Flutter", "React Native", "Swift UI", "Kotlin"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL]
-    }
+        databases: ["MongoDB", "MySQL", "PostgreSQL"]
+    },
     favourites: ["Typescript", "React", "Material UI", "GraphQL"]
 }
 ```
