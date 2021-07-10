@@ -58,7 +58,8 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     18 mins             █████████████████░░░░░░░░   67.76% 
+YAML                     8 mins              ████████░░░░░░░░░░░░░░░░░   32.24%
 
 ```
 
@@ -75,6 +76,6 @@ Java                     8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2021
+ Last Updated on 10/07/2021
 <!--END_SECTION:waka-->
 
