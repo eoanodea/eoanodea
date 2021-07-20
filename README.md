@@ -12,10 +12,9 @@
 ```javascript
 
 const eoan = {
-    about: "👨🏻‍💻 Final Year Creative Computing student & Owner @ WebSpace",
+    about: "👨🏻‍💻 Creative Computing graduate & Owner @ WebSpace",
     workingOn: [
-        "Finishing my Bachelors degree",
-        "Writing my Thesis & building a mobile application to support it",
+        "Preparing for my masters in Software Engineering & Green IT",
         "Running WebSpace",
         "Teaching Maths & Web Development @ BFEI",
     ],
