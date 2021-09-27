@@ -13,9 +13,9 @@
 ```javascript
 
 const eoan = {
-    about: "👨🏻‍💻 Computer Science Masters student & Owner @ [WebSpace](https://web-space.design)",
+    about: "👨🏻‍💻 Computer Science Masters student & Owner @ WebSpace",
     workingOn: [
-        "Studying my masters in Software Engineering & Green IT @ Vrije Universiteit, Amsterdam",
+        "Masters in Software Engineering & Green IT @ Vrije Universiteit",
         "Running WebSpace",
         "Recruiting new engineers for freelance work",
     ],
