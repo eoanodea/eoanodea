@@ -2,7 +2,8 @@
 
 [![Linkedin: eoanodea](https://img.shields.io/badge/-eoanodea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eoanodea/)](https://www.linkedin.com/in/eoanodea/)
 ![GitHub followers](https://img.shields.io/github/followers/eoanodea?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://web-space.design/)](http://web-space.design/)
+[![Personal Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://about.eoan.ie/)](https://about.eoan.ie)
+[![WebSpace](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://web-space.design/)](https://web-space.design/)
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/4eEcsSMYXX)
 ![](https://visitor-badge.glitch.me/badge?page_id=eoanodea.eoanodea)
 [![Dynamic Readme](https://github.com/eoanodea/eoanodea/actions/workflows/main.yml/badge.svg)](https://github.com/eoanodea/eoanodea/actions/workflows/main.yml)
@@ -12,11 +13,11 @@
 ```javascript
 
 const eoan = {
-    about: "👨🏻‍💻 Creative Computing graduate & Owner @ WebSpace",
+    about: "👨🏻‍💻 Computer Science Masters student & Owner @ [WebSpace](https://web-space.design)",
     workingOn: [
-        "Preparing for my masters in Software Engineering & Green IT",
+        "Studying my masters in Software Engineering & Green IT @ Vrije Universiteit, Amsterdam",
         "Running WebSpace",
-        "Teaching Maths & Web Development @ BFEI",
+        "Recruiting new engineers for freelance work",
     ],
     learning: [Dart, GraphQL, MikroORM, Apollo, C++],
     technologies: {
@@ -24,7 +25,7 @@ const eoan = {
             frameworks: [React, Vue, Gatsby, Flutter, ReactNative, SwiftUI],
             css: [MaterialUI, Bootstrap, Atlassian],
         },
-        backend: [Node, GraphQL, Express, Laravel, PHP, WordPress, AWS],
+        backend: [Docker, Node, GraphQL, Express, Laravel, PHP, WordPress, AWS],
         databases: [MongoDB, MySQL, PostgreSQL],
     },
 };
