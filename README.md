@@ -1,6 +1,8 @@
+<div align="center">
 <h1 style="text-align: left;font-size:50px;font-weight:800">Hi there, I'm Eoan 👋</h1>
 
-<div style="text-align: center;"><img src="animated.gif" width="300" height="300"/></div>
+<img src="animated.gif" width="300" height="300"/>
+</div>
     
 ```javascript
 
