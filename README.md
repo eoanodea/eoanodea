@@ -1,12 +1,6 @@
-
-<style>
-h1 {font-family: "Roboto"}
-.img-wrapper {text-align: center;, margin: auto;}
-</style>
-
 <h1 style="text-align: left;font-size:50px;font-weight:800">Hi there, I'm Eoan 👋</h1>
 
-<div class="img-wrapper"><img src="animated.gif" width="300" height="300"/></div>
+<div style="text-align: center;"><img src="animated.gif" width="300" height="300"/></div>
     
 ```javascript
 
