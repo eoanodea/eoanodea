@@ -1,7 +1,5 @@
-<div align="center">
+<div>
 <h1 style="text-align: left;font-size:50px;font-weight:800">Hi there, I'm Eoan 👋</h1>
-
-<img src="animated.gif" width="300" height="300"/>
 </div>
     
 ```javascript
@@ -19,7 +17,8 @@ const eoan = {
             frameworks: [React, Vue, Gatsby, Flutter, ReactNative, SwiftUI],
             css: [MaterialUI, Bootstrap, Atlassian],
         },
-        backend: [Docker, Node, GraphQL, Express, Laravel, PHP, WordPress, AWS],
+        backend: [Node, GraphQL, Express, Laravel, PHP, WordPress],
+        devOps: [Docker, ZSH, Bash, Git, Python, Apache, cPanel, AWS],
         databases: [MongoDB, MySQL, PostgreSQL],
     },
 };
@@ -39,4 +38,3 @@ const eoan = {
 [![WebSpace](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://web-space.design/)](https://web-space.design/)
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/4eEcsSMYXX)
 ![](https://visitor-badge.glitch.me/badge?page_id=eoanodea.eoanodea)
-[![Dynamic Readme](https://github.com/eoanodea/eoanodea/actions/workflows/main.yml/badge.svg)](https://github.com/eoanodea/eoanodea/actions/workflows/main.yml)
