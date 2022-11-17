@@ -11,13 +11,12 @@ const eoan = {
         "Running WebSpace",
         "Training Software Engineers @ Bright Network"
     ],
-    learning: [Dart, GraphQL, MikroORM, Apollo, C++],
     technologies: {
         frontend: {
             frameworks: [React, Vue, Gatsby, Flutter, ReactNative, SwiftUI],
             css: [MaterialUI, Bootstrap, Atlassian],
         },
-        backend: [NodeJS, Express, GraphQL, PHP, Laravel, WordPress, MikroORM, Apollo, C++],
+        backend: [NodeJS, Express, GraphQL, PHP, Laravel, WordPress, MikroORM, Apollo, C++, Java, Spring],
         devOps: [Docker, ZSH, Bash, Git, Python, Apache, cPanel, AWS],
         databases: [MongoDB, MySQL, PostgreSQL],
     },
