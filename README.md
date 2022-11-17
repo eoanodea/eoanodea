@@ -7,9 +7,9 @@
 const eoan = {
     about: "👨🏻‍💻 Computer Science Masters student & Owner @ WebSpace",
     workingOn: [
-        "Masters in Software Engineering & Green IT @ Vrije Universiteit",
+        "Masters in Software Engineering & Green IT between Vrije Universiteit Amsterdam and Università degli Studi dell'Aquila, Italy",
         "Running WebSpace",
-        "Recruiting new engineers for freelance work",
+        "Training Software Engineers @ Bright Network"
     ],
     learning: [Dart, GraphQL, MikroORM, Apollo, C++],
     technologies: {
@@ -17,7 +17,7 @@ const eoan = {
             frameworks: [React, Vue, Gatsby, Flutter, ReactNative, SwiftUI],
             css: [MaterialUI, Bootstrap, Atlassian],
         },
-        backend: [Node, GraphQL, Express, Laravel, PHP, WordPress],
+        backend: [NodeJS, Express, GraphQL, PHP, Laravel, WordPress, MikroORM, Apollo, C++],
         devOps: [Docker, ZSH, Bash, Git, Python, Apache, cPanel, AWS],
         databases: [MongoDB, MySQL, PostgreSQL],
     },
