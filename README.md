@@ -9,14 +9,13 @@ const eoan = {
     workingOn: [
         "Masters in Software Engineering & Green IT between Vrije Universiteit Amsterdam and Università degli Studi dell'Aquila, Italy",
         "Running WebSpace",
-        "Training Software Engineers @ Bright Network"
+        "Consulting & Training Software Engineers"
     ],
     technologies: {
         frontend: {
-            frameworks: [React, Vue, Gatsby, Flutter, ReactNative, SwiftUI],
-            css: [MaterialUI, Bootstrap, Atlassian],
+            frameworks: [React, Vue, Next.js, Flutter, ReactNative, SwiftUI],
         },
-        backend: [NodeJS, Express, GraphQL, PHP, Laravel, WordPress, MikroORM, Apollo, C++, Java, Spring],
+        backend: [NodeJS, Express, GraphQL, PHP, C++, Java, Spring],
         devOps: [Docker, ZSH, Bash, Git, Python, Apache, cPanel, AWS],
         databases: [MongoDB, MySQL, PostgreSQL],
     },
@@ -26,14 +25,10 @@ const eoan = {
 
 </h3>
 
-<img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=eoanodea&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoanodea&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/sp-xd" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoanodea&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 
 
 [![Linkedin: eoanodea](https://img.shields.io/badge/-eoanodea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eoanodea/)](https://www.linkedin.com/in/eoanodea/)
-![GitHub followers](https://img.shields.io/github/followers/eoanodea?label=Follow&style=social)
 [![Personal Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://about.eoan.ie/)](https://about.eoan.ie)
-[![WebSpace](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://web-space.design/)](https://web-space.design/)
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/4eEcsSMYXX)
+[![WebSpace](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://web-space.design/)](https://web-space.ie/)
 ![](https://visitor-badge.glitch.me/badge?page_id=eoanodea.eoanodea)
