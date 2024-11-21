@@ -7,7 +7,7 @@
 const eoan = {
     about: "👨🏻‍💻 Computer Science Masters student & Owner @ WebSpace",
     workingOn: [
-        "Masters in Software Engineering & Green IT between Vrije Universiteit Amsterdam and Università degli Studi dell'Aquila, Italy",
+        "PhD in Green IT at Università degli Studi dell'Aquila, Italy",
         "Running WebSpace",
         "Consulting & Training Software Engineers"
     ],
